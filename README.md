@@ -1,8 +1,6 @@
 Woochang Jeong
 ====================
 > Email : ilsmparticle@gmail.com
-> 
-> Github : https://github.com/ILSMParticlE
 
 ##  Education
 

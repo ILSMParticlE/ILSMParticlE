@@ -7,7 +7,7 @@ Woochang Jeong
 ### **Korea Advanced Institute of Science and Technology(KAIST)** (*Feb. 2018 - Present*)
 
 <details>
-  <summary>  Major in Computer Science </summary>
+  <summary>  Major in School of Computing</summary>
 <div markdown="1">
   
 - CS204 Discrete Mathematics

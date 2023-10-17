@@ -28,7 +28,7 @@ Woochang Jeong
 </details>
 
 <details>
-<summary> Minor in Mathematical Scienceㄴ </summary>
+<summary> Minor in Mathematical Sciences </summary>
 <div markdown="1">
   
 - MAS212 Linear Algebra

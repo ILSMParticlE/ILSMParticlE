@@ -6,6 +6,10 @@ Woochang Jeong
 
 ### **Korea Advanced Institute of Science and Technology(KAIST)** (*Feb. 2018 - Present*)
 
+  * Major in School of Computing
+  * Minor in Mathmetical Sciences
+
+<!--
 <details>
   <summary>  Major in School of Computing</summary>
 <div markdown="1">
@@ -39,7 +43,7 @@ Woochang Jeong
 - MAS365 Introduction to Neumarical Anaylsis
 
 </details>
-
+-->
 
 ### **Korea Science Academy of KAIST(KSA)** (*Mar. 2015 - Feb. 2018*)
 

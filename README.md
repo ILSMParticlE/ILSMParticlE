@@ -47,7 +47,7 @@ Woochang Jeong
 
 ### **Korea Science Academy of KAIST(KSA)** (*Mar. 2015 - Feb. 2018*)
 
-Graduated
+ * Graduated
   
 
 

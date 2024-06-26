@@ -4,7 +4,7 @@ Woochang Jeong
 
 ##  Education
 
-### **Korea Advanced Institute of Science and Technology(KAIST)** (*Feb. 2018 - Present*)
+### **Korea Advanced Institute of Science and Technology(KAIST)** (*Feb. 2018 - Aug. 2024*)
 
   * Major in School of Computing
   * Minor in Mathmetical Sciences

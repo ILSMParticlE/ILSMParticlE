@@ -8,6 +8,7 @@ Woochang Jeong
 
   * Major in School of Computing
   * Minor in Mathmetical Sciences
+  * Graduated
 
 <!--
 <details>
